@@ -17,7 +17,7 @@
 
     pip install kubernetes
 
-#### alter Token and APISERVER in k8s_auth.py for portal authentication
+#### Update Token and APISERVER varibales in k8s_auth.py and k8s_auth_v1beta1 for portal authentication
 
 
 #### Run the test connection script
