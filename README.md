@@ -1,6 +1,6 @@
 ## K8s access API cluster via python client 
 
-#### Create k8s user-admin service-account on k8s master
+#### Create user-admin service-account in k8s master
 
     kubectl create -f CreateServiceAccount.yaml
     kubectl create -f RoleBinding.yaml
