@@ -22,8 +22,8 @@ def main():
 
 
     # configuration.api_key["authorization"] = "bearer " + Token
-    # aConfiguration.api_key_prefix['authorization'] = 'Bearer'
-    # aConfiguration.ssl_ca_cert = 'ca.crt'
+    # configuration.api_key_prefix['authorization'] = 'Bearer'
+    # configuration.ssl_ca_cert = 'ca.crt'
     # Create a ApiClient with our config
     client.Configuration.set_default(configuration)
     # Do calls
