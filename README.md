@@ -17,6 +17,9 @@
 
     pip install kubernetes
 
+#### alter Token and APISERVER in k8s_auth.py
+
+
 #### Run the script
     
     python ./k8s_test_conn.py
